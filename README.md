@@ -1,2 +1,1 @@
-# CSIAIML
-submission for the AIML task
+# CSI submission for the task
